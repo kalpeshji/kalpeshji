@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalpesh
 - 👀 I’m interested in web development and MERN stack development 
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning new technologies
 - 📫 guptakalpeshji@gmail.com
 
 <!---
