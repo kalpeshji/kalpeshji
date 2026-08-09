@@ -116,16 +116,6 @@ A full-stack e-commerce application with complete shopping and administration wo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalpeshji&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180" alt="Kalpesh GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshji&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=kalpeshji&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
