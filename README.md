@@ -145,7 +145,20 @@ A full-stack e-commerce application with complete shopping and administration wo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kalpeshji/kalpeshji/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kalpeshji/kalpeshji/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kalpeshji/kalpeshji/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/kalpeshji/kalpeshji/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
