@@ -1,58 +1,49 @@
 <div align="center">
 
-# Hi 👋, I'm Kalpesh Gupta
+# Hi, I'm Kalpesh Gupta
 
 ### Full Stack Developer
-
-<p>
-  <a href="https://github.com/kalpeshji">
-    <img src="https://komarev.com/ghpvc/?username=kalpeshji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/kalpeshji?tab=followers">
-    <img src="https://img.shields.io/github/followers/kalpeshji?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
-  </a>
-</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Full Stack Developer** passionate about building scalable, high-performance and user-focused web applications.
 
-- 💻 **3.8+ years** of experience in full-stack web development
-- ⚛️ Building modern applications with **React.js, Next.js & TypeScript**
-- 🟢 Developing scalable backends with **Node.js & Express.js**
-- 🗄️ Working with **MongoDB, PostgreSQL & Prisma**
-- ☁️ Experienced with **AWS, Docker, CI/CD & production deployments**
-- 🎯 Focused on **clean architecture, performance, scalability and maintainability**
-- 🌱 Always learning new technologies and improving development workflows
-- 📫 Reach me at **guptakalpeshji@gmail.com**
+- **3+ years** of experience in full-stack web development
+- Building modern applications with **React.js, Next.js & TypeScript**
+- Developing scalable backends with **Node.js & Express.js**
+- Working with **MongoDB, PostgreSQL & Prisma**
+- Experienced with **AWS, Docker, CI/CD & production deployments**
+- Focused on **clean architecture, performance, scalability and maintainability**
+- Always learning new technologies and improving development workflows
+- Reach me at **guptakalpeshji@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,python,fastapi" />
 </p>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,vercel" />
 </p>
 
-### 🔧 Tools & Other Technologies
+### Tools & Other Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,electron,reactnative" />
@@ -60,68 +51,68 @@ I'm a **Full Stack Developer** passionate about building scalable, high-performa
 
 ---
 
-## 💼 What I Build
+## What I Build
 
 | Area | Technologies |
 | --- | --- |
-| 🌐 Frontend | React.js, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| 🖥️ Backend | Node.js, Express.js, REST APIs, FastAPI |
-| 🗄️ Databases | MongoDB, PostgreSQL, Prisma |
-| ☁️ Cloud | AWS EC2, AWS S3, Vercel |
-| 🚀 DevOps | Docker, GitHub Actions, CI/CD, Nginx |
-| 🖥️ Desktop | Electron.js |
-| 📱 Mobile | React Native |
+| Frontend | React.js, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs, FastAPI |
+| Databases | MongoDB, PostgreSQL, Prisma |
+| Cloud | AWS EC2, AWS S3, Vercel |
+| DevOps | Docker, GitHub Actions, CI/CD, Nginx |
+| Desktop | Electron.js |
+| Mobile | React Native |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏢 ONEOPS — Employee Management Platform
+### ONEOPS — Employee Management Platform
 
 A comprehensive employee management platform with modules for:
 
-- 📋 Task Management
-- 📊 Project Management
-- 🏭 Warehouse Management
-- 👥 HR & Employee Management
-- 📍 Live Tracking
-- 💬 Real-time Chat
+- Task Management
+- Project Management
+- Warehouse Management
+- HR & Employee Management
+- Live Tracking
+- Real-time Chat
 
 **Stack:** React.js • Node.js • Express.js • PostgreSQL • REST APIs
 
 ---
 
-### 🖥️ Orphiq HRMS — Desktop Application
+### Orphiq HRMS — Desktop Application
 
 An HRMS desktop application built for employee management and monitoring.
 
 **Key Features:**
-- ⏱️ Employee clock-in / clock-out
-- 📸 Automatic screenshots
-- 👥 Employee management
-- 🖥️ Cross-platform desktop experience
+- Employee clock-in / clock-out
+- Automatic screenshots
+- Employee management
+- Cross-platform desktop experience
 
 **Stack:** Electron.js • React.js • Node.js • PostgreSQL • Prisma
 
 ---
 
-### 🛒 Molimor — E-commerce Platform
+### Molimor — E-commerce Platform
 
 A full-stack e-commerce application with complete shopping and administration workflows.
 
 **Features:**
-- 🛍️ Product catalog
-- 🛒 Shopping cart
-- 💳 Checkout & payment integration
-- 📦 Order management
-- 🔐 Authentication
-- ⚙️ Admin CMS
+- Product catalog
+- Shopping cart
+- Checkout & payment integration
+- Order management
+- Authentication
+- Admin CMS
 
 **Stack:** React.js • Node.js • Express.js • MongoDB
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -141,7 +132,7 @@ A full-stack e-commerce application with complete shopping and administration wo
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -164,7 +155,7 @@ A full-stack e-commerce application with complete shopping and administration wo
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -172,7 +163,7 @@ A full-stack e-commerce application with complete shopping and administration wo
   <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/" >
+<a href="https://www.linkedin.com/in/kalpesh-gupta-%F0%9F%A5%87-a9a62b251" >
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
@@ -186,8 +177,8 @@ A full-stack e-commerce application with complete shopping and administration wo
 
 <div align="center">
 
-### 💡 "Build it. Scale it. Make it better."
+### "Build it. Scale it. Make it better."
 
-**Thanks for visiting my profile! ⭐**
+**Thanks for visiting my profile!**
 
 </div>
