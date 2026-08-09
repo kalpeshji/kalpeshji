@@ -1,10 +1,8 @@
-
-[README(1).md](https://github.com/user-attachments/files/30868402/README.1.md)
 <div align="center">
 
 # Hi 👋, I'm Kalpesh Gupta
 
-### Full Stack Developer • MERN • Next.js • TypeScript
+### Full Stack Developer
 
 <p>
   <a href="https://github.com/kalpeshji">
